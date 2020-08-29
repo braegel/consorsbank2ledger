@@ -1,4 +1,4 @@
-# What is thsit
+# What is this
 This ruby scripts converts an account statement pdf from Consorsbank into leder-cli plain text. Have fun.
 
 # Software license
